@@ -135,15 +135,24 @@ O fluxo de usuário foi imaginado da seguinte forma, as telas serão explicadas 
 
 ## Wireframes
 # Tela Inicial
-![Tela Inicial](link)
-# Tela de Cadastro
-![Tela de Cadastro](link)
-# Tela de Usuário-Pessoa
-![Tela de Usuário-Pessoa](link)
-# Tela de Usuário-Empresa
-![Tela de Usuário-Empresa](link)
-# Tela de Busca
-![Tela de Busca](link)
+![image](https://github.com/ICEI-PUC-Minas-PPLCC-TI/ti-1-ppl-cc-m-20232-empresa-de-gestao-financeira/assets/120015178/a125b20a-066f-4ce2-bf6a-98bace04bf22)
+
+# Tela de Perfil
+![image](https://github.com/ICEI-PUC-Minas-PPLCC-TI/ti-1-ppl-cc-m-20232-empresa-de-gestao-financeira/assets/120015178/052255c1-266c-49fe-81e8-3066f18b08b2)
+
+
+# Tela de Notícia
+
+![image](https://github.com/ICEI-PUC-Minas-PPLCC-TI/ti-1-ppl-cc-m-20232-empresa-de-gestao-financeira/assets/120015178/a37fce1d-e27d-4158-b3af-3ef2f75ad701)
+
+
+# Tela de Notícia Completa
+![image](https://github.com/ICEI-PUC-Minas-PPLCC-TI/ti-1-ppl-cc-m-20232-empresa-de-gestao-financeira/assets/120015178/2d7b895e-1576-4717-86a0-7c1a1a5ec49e)
+
+# Tela de Organização dos Gastos
+
+![image](https://github.com/ICEI-PUC-Minas-PPLCC-TI/ti-1-ppl-cc-m-20232-empresa-de-gestao-financeira/assets/120015178/ea32a50d-4d99-418e-a547-8546fea799cc)
+
 
 
 ## Gestão de Projetos
