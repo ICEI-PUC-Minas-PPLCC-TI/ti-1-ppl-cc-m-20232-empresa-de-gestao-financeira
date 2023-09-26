@@ -78,18 +78,18 @@ CURSO
 
 
 ## Personas 
-(https://github.com/ICEI-PUC-Minas-PPLCC-TI/ti-1-ppl-cc-m-20232-empresa-de-gestao-financeira/assets/138338965/ba0ea5f1-5e61-4ba9-89b9-728f747e89cb)
+![persona 1](https://github.com/ICEI-PUC-Minas-PPLCC-TI/ti-1-ppl-cc-m-20232-empresa-de-gestao-financeira/assets/138338965/cd3be318-19c1-4f0b-a169-34f66bb5e30a)
 
-(https://github.com/ICEI-PUC-Minas-PPLCC-TI/ti-1-ppl-cc-m-20232-empresa-de-gestao-financeira/assets/138338965/8c051e44-acd4-4eb1-904f-d3d57fa9caa0)
+![persona 2](https://github.com/ICEI-PUC-Minas-PPLCC-TI/ti-1-ppl-cc-m-20232-empresa-de-gestao-financeira/assets/138338965/19dc4d4e-f3b4-425c-8f79-48a3d443398a)
 
-![](link)
+
 
 
 ## Mapas de Empatia
-![](li![mapa de empatia 1](https://github.com/ICEI-PUC-Minas-PPLCC-TI/ti-1-ppl-cc-m-20232-empresa-de-gestao-financeira/assets/138338965/078223ec-4444-4bdc-bced-6ae3e849bbb4)
-nk)
-![](lin![mapa de empatia 2](https://github.com/ICEI-PUC-Minas-PPLCC-TI/ti-1-ppl-cc-m-20232-empresa-de-gestao-financeira/assets/138338965/65813cc8-f703-434c-adbc-3c2bf0ee2ade)
-k)
+![mapa de empatia 1](https://github.com/ICEI-PUC-Minas-PPLCC-TI/ti-1-ppl-cc-m-20232-empresa-de-gestao-financeira/assets/138338965/078223ec-4444-4bdc-bced-6ae3e849bbb4)
+
+![mapa de empatia 2](https://github.com/ICEI-PUC-Minas-PPLCC-TI/ti-1-ppl-cc-m-20232-empresa-de-gestao-financeira/assets/138338965/65813cc8-f703-434c-adbc-3c2bf0ee2ade)
+
 
 
 
