@@ -75,6 +75,12 @@ CURSO
 
 ## Público-Alvo
 
+Jovens Profissionais.
+Estudantes Universitários.
+Pessoas que desejam economizar.
+Investidores Iniciantes.
+Pessoas que querem melhorar seus hábitos financeiros.
+Pequenos Empresários
 
 
 ## Personas 
