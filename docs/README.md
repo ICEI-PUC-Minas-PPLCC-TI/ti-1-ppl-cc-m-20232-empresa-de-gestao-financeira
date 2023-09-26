@@ -95,6 +95,7 @@ CURSO
 
 ## Histórias de Usuários
 
+João tinha dificuldades com dinheiro, gastava sem controle. Baixou um aplicativo de finanças, começou a registrar despesas e definiu metas de economia. O app mostrou gráficos e dicas financeiras. João mudou seus hábitos, economizou para uma viagem e investiu em seu futuro. Agora, ele tem paz de espírito financeira
 
 
 ## Requisitos
