@@ -78,10 +78,10 @@ CURSO
 
 
 ## Personas 
-![](l![persona 1](https://github.com/ICEI-PUC-Minas-PPLCC-TI/ti-1-ppl-cc-m-20232-empresa-de-gestao-financeira/assets/138338965/ba0ea5f1-5e61-4ba9-89b9-728f747e89cb)
-ink)
-![](lin![persona 2](https://github.com/ICEI-PUC-Minas-PPLCC-TI/ti-1-ppl-cc-m-20232-empresa-de-gestao-financeira/assets/138338965/8c051e44-acd4-4eb1-904f-d3d57fa9caa0)
-k)
+(https://github.com/ICEI-PUC-Minas-PPLCC-TI/ti-1-ppl-cc-m-20232-empresa-de-gestao-financeira/assets/138338965/ba0ea5f1-5e61-4ba9-89b9-728f747e89cb)
+
+(https://github.com/ICEI-PUC-Minas-PPLCC-TI/ti-1-ppl-cc-m-20232-empresa-de-gestao-financeira/assets/138338965/8c051e44-acd4-4eb1-904f-d3d57fa9caa0)
+
 ![](link)
 
 
