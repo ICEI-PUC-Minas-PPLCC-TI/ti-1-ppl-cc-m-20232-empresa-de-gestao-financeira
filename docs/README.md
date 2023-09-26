@@ -58,19 +58,24 @@ CURSO
 
 
 # Introdução
-
+Ter uma gestão financeira bem feita é fundamental para o sucesso e a estabilidade de qualquer indivíduo, família, empresa ou organização, envolve o controle e a administração adequada dos recursos financeiros disponíveis, de modo a garantir que as metas financeiras sejam alcançadas de forma sustentável.A proposta do nosso site é justamente essa, facilitar ao máximo a vida dos usuários, mostrando que se pode ter uma gestão de seus rendimentos de uma forma clara e simples.
 
 
 ## Problema
-
+Conforme dito na introdução, o problema principal a ser enfrentado neste projeto é atender as necessidades dos usuários, dando a possibilidade de simplificar suas finanças e ter controle absoluto de seus gastos.
 
 
 ## Objetivos
+O objetivo geral deste trabalho é criar uma plataforma que ajude os usuários a controlar, analisar e melhorar suas finanças pessoais. Aqui estão alguns dos principais objetivos:
 
+Controle Financeiro: Permitir que os usuários registrem e acompanhem todas as suas transações financeiras, incluindo despesas e receitas.
+Orçamento Personalizado: Oferecer a capacidade de criar e acompanhar orçamentos personalizados, ajudando os usuários a definir metas financeiras realistas.
+Análise de Gastos: Fornecer ferramentas de análise para que os usuários possam entender onde estão gastando seu dinheiro e identificar áreas para economizar.
 
 
 ## Justificativa
-
+Atualmente o Brasil se encontra em
+um período de crise, por isso, economizar em todos os aspectos possíveis é essencial, nosso site vem para solucionar este problema a crescente demanda por ferramentas e recursos que ajudem as pessoas a lidar com suas finanças de forma mais eficaz, além de fornecer educação financeira, automatização, segurança e suporte na tomada de decisões financeiras mais informadas. Isso pode contribuir significativamente para a saúde financeira dos indivíduos e das empresas.
 
 
 ## Público-Alvo
