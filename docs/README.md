@@ -78,14 +78,18 @@ CURSO
 
 
 ## Personas 
-![](link)
-![](link)
+![](lin![persona 1](https://github.com/ICEI-PUC-Minas-PPLCC-TI/ti-1-ppl-cc-m-20232-empresa-de-gestao-financeira/assets/138338965/9db08f34-2ee6-4000-a15a-4d7fc41c0d3f)
+k)
+![](li![persona 2](https://github.com/ICEI-PUC-Minas-PPLCC-TI/ti-1-ppl-cc-m-20232-empresa-de-gestao-financeira/assets/138338965/ae90436d-3f6d-4ebe-a696-2a2332c8f310)
+nk)
 ![](link)
 
 
 ## Mapas de Empatia
-![](link)
-![](link)
+![](li![mapa de empatia 1](https://github.com/ICEI-PUC-Minas-PPLCC-TI/ti-1-ppl-cc-m-20232-empresa-de-gestao-financeira/assets/138338965/8d2912c2-19b0-4415-8a78-041467cd6404)
+nk)
+![](li![mapa de empatia 2](https://github.com/ICEI-PUC-Minas-PPLCC-TI/ti-1-ppl-cc-m-20232-empresa-de-gestao-financeira/assets/138338965/9fe0fc69-45b7-4b84-9d4e-c41541cae08b)
+nk)
 
 
 
