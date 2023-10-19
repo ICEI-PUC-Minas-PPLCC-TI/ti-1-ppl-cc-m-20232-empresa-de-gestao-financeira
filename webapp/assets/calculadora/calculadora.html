@@ -2,7 +2,7 @@
 <html lang="en">
 <div id="header"></div>
 <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
-<script src="/webapp/assets/calculadora/calculadora.js"></script>
+
 
 
 <body>
@@ -16,18 +16,43 @@
     <div class="container">
         <div class="row g-3 align-items-center">
             <div class="col-auto">
-              <label for="valorincial" class="col-form-label">Valor Inicial</label>
+                <label for="valorIncial" class="col-form-label">Valor Inicial</label>
             </div>
             <div class="col-auto">
-              <input type="valor" id="valorinicial" class="form-control" aria-describedby="passwordHelpInline">
+                <input type="valor" id="valorInicial" class="form-control"
             </div>
         </div>
         <div class="row g-3 align-items-center">
             <div class="col-auto">
-              <label for="rendimento" class="col-form-label">Rendimento Mensal</label>
+                <label for="rendimento" class="col-form-label">Rendimento Mensal</label>
             </div>
             <div class="col-auto">
-              <input type="valor" id="rendimento" class="form-control" aria-describedby="passwordHelpInline">
+                <input type="valor" id="rendimento" class="form-control" >
+            </div>
+            <div class="col-auto">
+                <span id="inLineHelp" class="form-text">
+                %
+                </span>
+        </div>
+        <div class="row g-3 align-items-center">
+            <div class="col-auto">
+                <label for="meses" class="col-form-label">Meses</label>
+            </div>
+            <div class="col-auto">
+                <input type="valor" id="meses" class="form-control">
+            </div>
+        </div>
+        <div class="row g-3 align-items-center">
+            <div class="col-auto">
+                <button type="button" class="btn btn-primary" id="calcular">Calcular</button>
+            </div>
+        </div>
+        <div class="row g-3 align-items-center">
+            <div class="col-auto">
+                <label for="valorFinal" class="col-form-label">Valor Final</label>
+            </div>
+            <div class="col-auto">
+                <input type="valor" id="valorFinal" class="form-control" readonly>
             </div>
         </div>
     </div>
@@ -35,7 +60,7 @@
     
     
     
-    
+<script src="/webapp/assets/calculadora/calculadora.js"></script>   
     
     
     
