@@ -11,7 +11,6 @@ Escreva um ou dois parágrafo resumindo o objetivo do seu projeto.
 * Rodrigo Machado Ribeiro da Gloria
 * Pedro Xavier
 * Miguel Santiago
-
 ## Professores responsáveis
 
 * Lucio
