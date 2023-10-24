@@ -5,8 +5,6 @@ $(function(){
 function calcular() {
 
 
-    limparTabela();
-
     let valorInicial = parseFloat(document.getElementById("valorInicial").value);
     let rendimento = parseFloat(document.getElementById("rendimento").value);
     let meses = parseInt(document.getElementById("meses").value);
@@ -75,6 +73,7 @@ function calcular() {
 //usar a funcao calcular ao clicar botao
 
 document.getElementById("calcular").onclick = function(){
+    limparTabela();
     calcular();
 }
 
