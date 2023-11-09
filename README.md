@@ -9,12 +9,9 @@ Escreva um ou dois parágrafo resumindo o objetivo do seu projeto.
 * Eduardo Spinelli
 * Guilherme Lima Martini
 * Rodrigo Machado Ribeiro da Gloria
-<<<<<<< HEAD
 * Pedro Xavier
 * Miguel Santiago
-=======
 
->>>>>>> master
 ## Professores responsáveis
 
 * Lucio
