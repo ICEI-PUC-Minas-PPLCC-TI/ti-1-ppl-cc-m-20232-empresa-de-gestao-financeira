@@ -13,7 +13,6 @@ Escreva um ou dois parágrafo resumindo o objetivo do seu projeto.
 * Pedro Xavier
 * Miguel Santiago
 =======
-* Miguel Santiago
 
 >>>>>>> master
 ## Professores responsáveis
