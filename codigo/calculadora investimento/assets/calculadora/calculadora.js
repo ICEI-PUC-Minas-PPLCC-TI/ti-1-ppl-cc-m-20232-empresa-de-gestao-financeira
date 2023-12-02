@@ -1,6 +1,3 @@
-$(function() {
-    $("#header").load("../header/header.html");
-});
 
 async function calcular() {
     try {
