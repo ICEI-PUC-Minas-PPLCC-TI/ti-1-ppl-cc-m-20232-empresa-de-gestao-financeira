@@ -1,0 +1,151 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+
+}
+body {
+    background-color: rgb(5, 66, 23);
+}
+
+
+.center{
+
+    display: flex;
+    max-width: 1100px;
+    margin: 0 auto;
+    padding:0 2%;
+    flex-wrap: wrap;
+
+}
+
+
+.about-header{
+    width: 100%;
+    background-color: rgb(72, 204, 105);
+
+}
+
+.about-header p{
+    color: aliceblue;
+    padding: 8px;
+
+}
+
+header h2  span{
+    color: aqua;
+
+}
+
+header h2{
+font-size: 55px;
+color: black;
+}
+
+.logo{
+    margin-top: 10px;
+     
+}
+
+.wraper-header{
+    padding: 40px  0;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.banner-ads{
+     width: 60%;
+    height: 100px;
+    background-color: rgb(0, 0, 0);
+    position: relative;
+
+}
+
+
+.banner-ads h2{
+    position: absolute;
+    left: 10px;
+    top: 10px;
+    color: whitesmoke;
+    font-size: 15px;
+    font-style: italic;
+
+
+}
+
+.menu-main{
+     width: 100%;
+    background-color: rgb(72, 204, 105);
+     padding: 8PX;
+
+}
+
+
+.menu-main a{
+
+    display: inline-block;
+    margin: 0 10px;
+    color: whitesmoke;
+    text-decoration: none;
+}
+.menu-main a:hover{
+     text-decoration: underline;
+}
+
+.noticia-wraper-1{
+    display: flex;
+    width: 100%;
+}
+
+.noticia-destaque{
+    
+    width: 60%;
+    padding-top: 20%;
+    background-color: #222;
+    border:2px solid white;
+    position: relative;
+}
+
+.noticia-destaque-single{
+    left: 0;
+    top: 0;
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background-size: cover;
+    background-position: center;
+
+}
+
+.noticia-destaque-single h3{
+    padding: 10px;
+    color: black;
+}
+
+.outra-noticia-1{
+    display: flex;
+    width: 40%;
+    flex-wrap: wrap;
+}
+
+.outra-noticia-1-single{
+    width: 137%;
+    padding-top: 50%;
+    background-size: cover;
+    background-position: center;
+    border: 2px solid white;
+    background-color: #222;
+    position: relative;
+}
+
+.outra-noticia-1-single h3{
+    padding: 10px;
+    color: white;
+    width: 100%;    
+    height: 40px;
+    background-color: rgba(0,0,0,0.6);
+
+}
